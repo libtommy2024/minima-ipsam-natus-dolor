@@ -1,6 +1,6 @@
 {
   "name": "@libtommy2024/minima-ipsam-natus-dolor",
-  "version": "3.19.158",
+  "version": "3.19.159",
   "description": "",
   "main": "index.js",
   "author": "OraliePham",
@@ -79,5 +79,5 @@
   "bugs": {
     "url": "https://github.com/libtommy2024/minima-ipsam-natus-dolor/issues"
   },
-  "packageManager": "yarn@4.5.0"
+  "packageManager": "yarn@4.5.1"
 }
